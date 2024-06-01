@@ -1,0 +1,90 @@
+.page-1 {
+  background-color: #ffffff;
+  /* background: linear-gradient( rgb(99, 192, 227) 5.3%, rgb(98, 72, 194) 100.2%); */
+}
+
+.box-page-one {
+  background: #ffffff;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo {
+  background-color: #ffffff;
+  width: 25%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.name {
+  margin-left: 10px;
+  width: 75%;
+  /* background: blue; */
+  background-color: #ffffff;
+  flex-grow: 3;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.logo > img {
+  /* Your styles here */
+  /* background-color: #232323; */
+  width: 100%;
+  height: auto;
+  /* display: block;  */
+}
+
+hr {
+  border: none; /* Remove the default border */
+  height: 1px; /* Set the height of the line */
+  width: 99%;
+  background-color: #353439; /* Set the color of the line */
+  margin: 20px 0; /* Add some vertical margin for spacing */
+}
+
+.block {
+  color: #353439;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.second {
+  font-size: 20px;
+}
+
+.buttom {
+  margin-top: 25px;
+}
+
+h3 {
+    text-transform: none !important;
+}
+
+.motivation {
+    display: flex;
+    flex-flow: row;
+    width: 100%;
+    height: 100%;
+    justify-content: flex-start;
+    /* background-color: blue; */
+}
+
+.motivation img {
+    width: 100%;
+    height: 70%;
+    /* margin: 0 30px; */
+    /* margin-right: 40px; */
+}
+
+.north {
+    padding-top: 25px;
+}
+.anduril img {
+    width: 75%;
+}
