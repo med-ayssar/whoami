@@ -88,3 +88,13 @@ h3 {
 .anduril img {
     width: 75%;
 }
+
+#sketch {
+  /* background-color: black; */
+  width: 500;
+  /* margin-bottom: 10px; */
+  height: 90%;
+  /* width: 100vw;  */
+  /* height: 100vh;  */
+
+}
